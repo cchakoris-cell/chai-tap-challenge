@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Steam Lines -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M46,30 C44,22 52,20 48,14" />
+    <path
+        android:strokeColor="#FFC107"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M54,28 C52,18 60,16 56,10" />
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M62,30 C60,22 68,20 64,14" />
+
+    <!-- Cutting Chai Cup Body -->
+    <path
+        android:fillColor="#FF9800"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M38,36 L70,36 L64,80 L44,80 Z" />
+
+    <!-- Hot Chai liquid level inside -->
+    <path
+        android:fillColor="#795548"
+        android:pathData="M40,44 L68,44 L65,68 L43,68 Z" />
+
+    <!-- Plate support -->
+    <path
+        android:fillColor="#8D6E63"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"
+        android:pathData="M30,86 L78,86 A4,4 0 0 1 74,90 L34,90 A4,4 0 0 1 30,86 Z" />
+</vector>

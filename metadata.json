@@ -1,0 +1,6 @@
+{
+  "name": "Chai Tap Challenge",
+  "description": "An interactive, fast-paced Indian-themed tea making game where players help the chai-wala tap the correct ingredients and avoid wrong items.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

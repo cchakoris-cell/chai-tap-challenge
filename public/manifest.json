@@ -1,0 +1,17 @@
+{
+  "short_name": "Chai Tap Challenge",
+  "name": "Chai Tap Challenge Mobile Game",
+  "icons": [
+    {
+      "src": "/src/assets/images/chai_app_icon_1782020945646.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0c0605",
+  "theme_color": "#ff9800",
+  "display": "standalone",
+  "orientation": "portrait"
+}

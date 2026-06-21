@@ -1,0 +1,23 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.ChaiTapChallenge" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#ff9800</item>
+        <item name="colorPrimaryVariant">#e65100</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#8d6e63</item>
+        <item name="colorSecondaryVariant">#3e2723</item>
+        <item name="colorOnSecondary">#ffffff</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#0c0605</item>
+        <item name="android:windowBackground">#0c0605</item>
+    </style>
+
+    <!-- Fullscreen Immersive Style -->
+    <style name="Theme.ChaiTapChallenge.FullScreen" parent="Theme.ChaiTapChallenge">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style>
+</resources>
