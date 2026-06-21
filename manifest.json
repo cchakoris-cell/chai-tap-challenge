@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Chai Tap Challenge",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ChaiTap",
+  "start_url": "/",
+  "theme_color": "#ff9800",
+  "description": "Fastest tea-tapping game! Tap ingredients, avoid wrong items, become Chai Master!"
+}
